@@ -3,6 +3,11 @@ A list of 2018 conferences for bootstrappers, solopreneurs, founders, entreprene
 
 # Conference List
 
+## [FemtoConf 2018](https://www.femtoconf.com/2018/)
+**Where:** Darmstadt, Germany
+
+**When:** March 2, 2018
+    
 ## [Microconf – Growth](http://www.microconf.com/growth/)
 **Where:** Las Vegas, USA
 
