@@ -24,5 +24,13 @@
     "month": "May",
     "submissionDeadline": "",
     "country": "USA"
-  }
+  },
+  {
+    "title": "Release Notes (iOS & Mac)",
+    "url": "https://releasenotes.tv/conference/",
+    "where": "Midwestern US (locations vary)",
+    "when": "Fall 2018",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
 ]
