@@ -18,6 +18,11 @@ A list of 2018 conferences for bootstrappers, solopreneurs, founders, entreprene
 
 **When:** May 1, 2018
     
+## [Release Notes (iOS & Mac)](https://releasenotes.tv/conference/)
+**Where:** Midwestern US (locations vary)
+
+**When:** Fall 2018
+    
 ## Contributing
 1. Fork it
 2. Add your conference to `list.json`
