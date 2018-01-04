@@ -8,7 +8,7 @@ A list of ${year} conferences for bootstrappers, solopreneurs, founders, entrepr
 // create contributing instructions
 const contribute =  `
 ## Contributing
-1. Fork it
+1. [Fork it here](https://github.com/mijustin/2018-conferences)
 2. Add your conference to \`list.json\`
 3. Run \`node index\` to update \`README.md\` with your changes
 4. Create your feature branch (\`git checkout -b my-new-feature\`)
@@ -16,7 +16,7 @@ const contribute =  `
 6. Push to the branch (\`git push origin my-new-feature\`)
 7. Create new Pull Request
 
-Original code: https://github.com/ryanburgess/2017-conferences
+[Original code from ryanburgess](https://github.com/ryanburgess/2017-conferences)
 `;
 
 // create heading for conference list
