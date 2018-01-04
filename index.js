@@ -16,7 +16,7 @@ const contribute =  `
 6. Push to the branch (\`git push origin my-new-feature\`)
 7. Create new Pull Request
 
-[Original code from ryanburgess](https://github.com/ryanburgess/2017-conferences)
+(Original code by [ryanburgess](https://github.com/ryanburgess/2017-conferences))
 `;
 
 // create heading for conference list
