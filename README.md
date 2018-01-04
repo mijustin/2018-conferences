@@ -23,6 +23,11 @@ A list of 2018 conferences for bootstrappers, solopreneurs, founders, entreprene
 
 **When:** Fall 2018
     
+## [Craft & Commerce](https://convertkit.com/conference/)
+**Where:** Boise, USA
+
+**When:** June 29, 2018
+    
 ## Contributing
 1. Fork it
 2. Add your conference to `list.json`
