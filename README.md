@@ -3,6 +3,16 @@ A list of 2018 conferences for bootstrappers, solopreneurs, founders, entreprene
 
 # Conference List
 
+## [Big Snow Tiny Conf](https://east.bigsnowtinyconf.com/)
+**Where:** Sugarbush Mountain, Vermont
+
+**When:** January 22, 2018
+    
+## [Big Snow Tiny Conf](http://bigsnowtinyconfwest.com/)
+**Where:** Beaver Creek, Colorado
+
+**When:** February 5, 2018
+    
 ## [FemtoConf 2018](https://www.femtoconf.com/2018/)
 **Where:** Darmstadt, Germany
 
@@ -18,15 +28,15 @@ A list of 2018 conferences for bootstrappers, solopreneurs, founders, entreprene
 
 **When:** May 1, 2018
     
-## [Release Notes (iOS & Mac)](https://releasenotes.tv/conference/)
-**Where:** Midwestern US (locations vary)
-
-**When:** Fall 2018
-    
 ## [Craft & Commerce](https://convertkit.com/conference/)
 **Where:** Boise, USA
 
 **When:** June 29, 2018
+    
+## [Release Notes (iOS & Mac)](https://releasenotes.tv/conference/)
+**Where:** Midwestern US (locations vary)
+
+**When:** Fall 2018
     
 ## Contributing
 1. [Fork it here](https://github.com/mijustin/2018-conferences)

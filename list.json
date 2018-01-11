@@ -1,4 +1,20 @@
 [{
+    "title": "Big Snow Tiny Conf",
+    "url": "https://east.bigsnowtinyconf.com/",
+    "where": "Sugarbush Mountain, Vermont",
+    "when": "January 22, 2018",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Big Snow Tiny Conf",
+    "url": "http://bigsnowtinyconfwest.com/",
+    "where": "Beaver Creek, Colorado",
+    "when": "February 5, 2018",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "FemtoConf 2018",
     "url": "https://www.femtoconf.com/2018/",
     "where": "Darmstadt, Germany",
@@ -26,18 +42,18 @@
     "country": "USA"
   },
   {
-    "title": "Release Notes (iOS & Mac)",
-    "url": "https://releasenotes.tv/conference/",
-    "where": "Midwestern US (locations vary)",
-    "when": "Fall 2018",
-    "submissionDeadline": "",
-    "country": "USA"
-  },
-  {
     "title": "Craft & Commerce",
     "url": "https://convertkit.com/conference/",
     "where": "Boise, USA",
     "when": "June 29, 2018",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Release Notes (iOS & Mac)",
+    "url": "https://releasenotes.tv/conference/",
+    "where": "Midwestern US (locations vary)",
+    "when": "Fall 2018",
     "submissionDeadline": "",
     "country": "USA"
   }
