@@ -38,6 +38,11 @@ A list of 2018 conferences for bootstrappers, solopreneurs, founders, entreprene
 
 **When:** Fall 2018
     
+## [Microconf – Europe](http://www.microconfeurope.com/)
+**Where:** Dubrovnik, Croatia
+
+**When:** October 21, 2018
+    
 ## Contributing
 1. [Fork it here](https://github.com/mijustin/2018-conferences)
 2. Add your conference to `list.json`

@@ -56,5 +56,14 @@
     "when": "Fall 2018",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "Microconf – Europe",
+    "url": "http://www.microconfeurope.com/",
+    "where": "Dubrovnik, Croatia",
+    "when": "October 21, 2018",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "HR"
   }
 ]
