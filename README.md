@@ -43,6 +43,11 @@ A list of 2018 conferences for bootstrappers, solopreneurs, founders, entreprene
 
 **When:** October 21, 2018
     
+## [Fast Company Innovation Festival](https://events.festival.fastcompany.com/)
+**Where:** New York, USA
+
+**When:** October 22,2018 
+    
 ## Contributing
 1. [Fork it here](https://github.com/mijustin/2018-conferences)
 2. Add your conference to `list.json`
